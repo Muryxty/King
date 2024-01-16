@@ -1,4 +1,4 @@
 # King
 # git clone https://github.com/muryxty/King
 # cd King
-# python run.py
+# python pluralismev1.py
